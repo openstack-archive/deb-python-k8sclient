@@ -1,5 +1,5 @@
 python-k8sclient (0.3.0-1) unstable; urgency=medium
 
-  * Initial release. (Closes: #XXXXXX)
+  * Initial release. (Closes: #838095)
 
  -- Thomas Goirand <zigo@debian.org>  Sat, 17 Sep 2016 12:10:48 +0200
