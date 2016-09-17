@@ -2,12 +2,35 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: python-k8sclient
 Source: http://www.openstack.org/
 
-Files: debian/*
-Copyright: (c) 2014, Thomas Goirand <zigo@debian.org>
+Files: *
+Copyright: (c) 2016, OpenStack Foundation
+           (c) 2015, SmartBear Software
+           (c) 2013, Hewlett-Packard Development Company, L.P.
+           (c) 2016, Davanum Srinivas <davanum@gmail.com>
+           (c) 2016, Madhuri Kumari <madhuri.kumari@nectechnologies.in>
+           (c) 2016, Hongbin Lu <hongbin.lu@huawei.com>
+           (c) 2016, Zane Bitter <zbitter@redhat.com>
+           (c) 2016, Surojit Pathak <suro@yahoo-inc.com>
+           (c) 2016, Steven Dake <stdake@cisco.com>
+           (c) 2016, Ralf Haferkamp <rhafer@suse.de>
+           (c) 2016, Andrey Pavlov <apavlov@mirantis.com>
+           (c) 2016, venkatamahesh <venkatamaheshkotha@gmail.com>
+           (c) 2016, Ton Ngo <ton@us.ibm.com>
+           (c) 2016, Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+           (c) 2016, Huang Shu Quan <huang.shuquan@99cloud.net>
+           (c) 2016, Yun Pan Feng <fengyun.pan@easystack.cn>
+           (c) 2016, Martin Falatic <mfalatic@cisco.com>
+           (c) 2016, Madhuri <madhuri.kumari@nectechnologies.in>
+           (c) 2016, Hua Wang <wanghua.humble@gmail.com>
+           (c) 2016, Wang Hou Ming <houming.wang@easystack.cn>
+           (c) 2016, Dmitry Tyzhnenko <t.dmitry@gmail.com>
+           (c) 2016, Andrey Kurilin <akurilin@mirantis.com>
+           (c) 2016, Andrey Pavlov <apavlov@mirantis.com>
+           (c) 2016, Abhishek Kekane <abhishek.kekane@nttdata.com>
 License: Apache-2
 
-Files: *
-Copyright: (c) 2013, OpenStack
+Files: debian/*
+Copyright: (c) 2016, Thomas Goirand <zigo@debian.org>
 License: Apache-2
 
 License: Apache-2
