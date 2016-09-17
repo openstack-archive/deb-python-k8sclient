@@ -32,8 +32,8 @@ Build-Depends-Indep: python-coverage,
                      subunit,
                      testrepository,
 Standards-Version: 3.9.8
-Vcs-Browser: https://anonscm.debian.org/cgit/openstack/python-k8sclient.git/
-Vcs-Git: https://anonscm.debian.org/git/openstack/python-k8sclient.git
+Vcs-Browser: https://git.openstack.org/cgit/openstack/deb-python-k8sclient
+Vcs-Git: https://git.openstack.org/openstack/deb-python-k8sclient
 Homepage: http://www.openstack.org/
 
 Package: python-k8sclient
