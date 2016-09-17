@@ -1,0 +1,9 @@
+Document: python-k8sclient-doc
+Title: python-k8sclient Documentation
+Author: N/A
+Abstract: Sphinx documentation for python-k8sclient
+Section: Programming/Python
+
+Format: HTML
+Index: /usr/share/doc/python-k8sclient-doc/html/index.html
+Files: /usr/share/doc/python-k8sclient-doc/html/*
